@@ -4,7 +4,7 @@ Thanks for stopping by, this is Wenzhen, a software developer and data scientist
 
 - 🔭 I’m currently working on GNN explainability specifically for Heterogeneous Graph and Tranformer.
 - 🌱 I’m currently learning Domain Adaptation and NLP.
-- 👯 I’m looking to collaborate on compuer vision related project.
+- 👯 I’m looking to collaborate on vision / graphics / NLP related project.
 - 💬 Ask me about Mathematica and I am a guru of it.
 - 🎓 Math + CS double major and Physics minor from Washington University.
 - 📫 How to reach me: email
