@@ -9,19 +9,27 @@ Thanks for stopping by, this is Wenzhen, a software developer and data scientist
 - 🎓 Math + CS double major and Physics minor from Washington University.
 - 📫 How to reach me: email
 - 😄 Pronouns: she / her
-- ✨ Fun fact: I spent most of my free time on reading philosophy & sci-fi novels and practicing 3 instruments. I love music.
-- 🌸 [My Spotify](https://open.spotify.com/user/1256520155)
+- ✨ Fun fact: I spent most of my free time on reading philosophy & sci-fi novels and practicing 3 instruments.
+- 🌸 I love music and here is [my Spotify](https://open.spotify.com/user/1256520155)
 
-### Tools I am comfortable with
+### Language / Frameworks / Tools I've worked with
 
 <p align="left">
   <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="40" height="40"/>
-  <img src="https://gitee.com/zhiqwang/logos/raw/master/cpp_logo.svg" alt="cplusplus" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="linux" width="40" height="40"/>
+  <img src="https://github.com/zhuwenzhen/personal-website-data/blob/master/logo/c.svg" alt="cplusplus" width="40" height="40"/>
+  <img src="https://github.com/zhuwenzhen/personal-website-data/blob/master/logo/java-4.svg" alt="java" width="40" height="40"/>
+  <img src="https://github.com/zhuwenzhen/personal-website-data/blob/master/logo/aws-2.svg" alt="aws" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/phpmyadmin/phpmyadmin-ar21.svg" alt="phpmyadmin" width="60" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/>
+  <img src="https://github.com/zhuwenzhen/personal-website-data/blob/master/logo/tensorflow-2.svg" alt="tensorflow" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="linux" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/>
+  <img src="https://github.com/zhuwenzhen/personal-website-data/blob/master/logo/opengl-1.svg" alt="=opengl" width="40" height="40"/>
+  <img src="https://github.com/zhuwenzhen/personal-website-data/blob/master/logo/swift-15.svg" alt="swift" width="40" height="40"/>
+  <img src="https://github.com/zhuwenzhen/personal-website-data/blob/master/logo/wolfram-language.svg" alt="wolfram" width="40" height="40"/>
+  <img src="https://github.com/zhuwenzhen/personal-website-data/blob/master/logo/arduino-1.svg" alt="arduino" width="40" height="40"/>
+  
+  https://worldvectorlogo.com/logo/mathematica-1
 </p>
 
 
