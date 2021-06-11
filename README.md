@@ -28,8 +28,6 @@ Thanks for stopping by, this is Wenzhen, a software developer and data scientist
   <img src="https://github.com/zhuwenzhen/personal-website-data/blob/master/logo/swift-15.svg" alt="swift" width="40" height="40"/>
   <img src="https://github.com/zhuwenzhen/personal-website-data/blob/master/logo/wolfram-language.svg" alt="wolfram" width="40" height="40"/>
   <img src="https://github.com/zhuwenzhen/personal-website-data/blob/master/logo/arduino-1.svg" alt="arduino" width="40" height="40"/>
-  
-  https://worldvectorlogo.com/logo/mathematica-1
 </p>
 
 
