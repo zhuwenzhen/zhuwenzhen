@@ -3,14 +3,14 @@
 Thanks for stopping by, this is Wenzhen, a software developer and data scientist based in Bay Area, CA. 🤗
 
 - 🔭 I’m currently working on GNN explainability specifically for Heterogeneous Graph and Vision Transformer.
-- 🌱 I’m currently learning Domain Adaptation and NLP.
+- 🌱 I’m currently learning Domain Adaptation and NLP (HuggingFace).
 - 👯 I’m looking to collaborate on vision related project.
 - 💬 Ask me about Mathematica and I am a guru of it.
 - 🎓 Math + CS double major and Physics minor from Washington University.
 - 📫 How to reach me: email
-- 😄 Pronouns: she / her
+- 🌸 Pronouns: she / her
 - ✨ Fun fact: I spent most of my free time on reading philosophy & sci-fi novels and practicing 3 instruments.
-- 🌸 I love music and here is [my Spotify](https://open.spotify.com/user/1256520155)
+- 🦋 I love music and here is [my Spotify](https://open.spotify.com/user/1256520155)
 
 ### Language / Frameworks / Tools I've worked with
 
