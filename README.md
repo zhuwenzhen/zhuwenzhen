@@ -2,8 +2,13 @@
 
 Thanks for stopping by, this is Wenzhen, a software developer and data scientist based in Bay Area, CA. 🤗
 
-- 🔭 I’m currently working on GNN explainability specifically for Heterogeneous Graph and Vision Transformer.
-- 🌱 I’m currently diving deep Domain Adaptation, Event-based Vision, Music transformers.
+- 🔭 I’m currently working on efficient benchmark framework and 3D vision.
+- 🔮 Stuff I worked with:
+  -  GNN explainability specifically for Heterogeneous Graph 
+  -  Vision / Music Transformer
+  -  Domain Adaptation
+  -  Image / Video understanding
+  -  Computational Geometry
 - 👯 I’m looking to collaborate on vision related project.
 - 💬 Ask me about Mathematica and I am a guru of it.
 - 🎓 Math + CS double major and Physics minor from Washington University.
