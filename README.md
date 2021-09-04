@@ -2,7 +2,7 @@
 
 Thanks for stopping by, this is Wenzhen, a 40% programmer + 40% neural-net-trainer + 10% math-problem-solver + 10% musician based in Bay Area, CA. 🤗 I used to do more math than coding. Mathematica changed my life by shaping my fundamental understanding of computational thinking. 
 
-And I hate typical data scientists' way of doing things. Most of data scientists I've worked with don't understand either programming or math. I am trying my best to not to be one of them.
+And I hate typical data scientists' way of doing things. Most of data scientists I've worked with don't understand either programming(system / engineering / fundamental algorithms) or math. I am trying my best to not to be one of them.
 
 - 🔭 I’m currently working on efficient benchmark framework and 3D vision.
 - 🔮 Stuff I worked with:
