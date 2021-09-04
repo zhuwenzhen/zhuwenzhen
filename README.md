@@ -4,11 +4,11 @@ Thanks for stopping by, this is Wenzhen, a programmer (neural-net-trainer) based
 
 - 🔭 I’m currently working on efficient benchmark framework and 3D vision.
 - 🔮 Stuff I worked with:
-  -  GNN explainability specifically for Heterogeneous Graph 
-  -  Vision / Music Transformer
   -  Domain Adaptation
+  -  Vision / Music Transformer
   -  Image / Video understanding
-  -  Computational Geometry
+  -  Computational Geometry / Geometric Algorithms / Differential Geometry
+  -  GNN explainability specifically for Heterogeneous Graph 
 - 👯 I’m looking to collaborate on vision related project.
 - 💬 Ask me about Mathematica and I am a guru of it.
 - 🎓 Math + CS double major and Physics minor from Washington University.
