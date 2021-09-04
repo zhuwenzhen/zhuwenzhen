@@ -1,6 +1,8 @@
 ### Hi there 👋 [![Visitor](https://visitor-badge.glitch.me/badge?page_id=zhuwenzhen.zhuwenzhen)](https://github.com/zhuwenzhen/zhuwenzhen)
 
-Thanks for stopping by, this is Wenzhen, a 40% programmer + 40% neural-net-trainer + 10% math-problem-solver + 10% musician based in Bay Area, CA. 🤗 I used to do more math than coding. Mathematica changed my life by shaping my fundamental understanding of computational thinking. I hate 80+% of data scientist.
+Thanks for stopping by, this is Wenzhen, a 40% programmer + 40% neural-net-trainer + 10% math-problem-solver + 10% musician based in Bay Area, CA. 🤗 I used to do more math than coding. Mathematica changed my life by shaping my fundamental understanding of computational thinking. 
+
+And I hate typical data scientists' way of doing things. I am trying my best to not to be one of them.
 
 - 🔭 I’m currently working on efficient benchmark framework and 3D vision.
 - 🔮 Stuff I worked with:
