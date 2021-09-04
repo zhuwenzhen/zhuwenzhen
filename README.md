@@ -1,6 +1,6 @@
 ### Hi there 👋 [![Visitor](https://visitor-badge.glitch.me/badge?page_id=zhuwenzhen.zhuwenzhen)](https://github.com/zhuwenzhen/zhuwenzhen)
 
-Thanks for stopping by, this is Wenzhen, a 40% programmer + 40% neural-net-trainer + 10% math-problem-solver + 7% musician + 3% dancer based in Bay Area, CA. 🤗 I used to do more math than coding. Mathematica changed my life by shaping my fundamental understanding of computational thinking. 
+Thanks for stopping by, this is Wenzhen, a 40% programmer + 40% neural-net-trainer + 10% math-problem-solver + 7% musician + 3% dancer based in Bay Area, CA. 🤗 I used to do more math than coding. But since I am not able to listen to music and digest theorems and do rigorous proofs at the same time and I am more productive in building cool stuff so I finally chose computer science in grad school. Mathematica changed my life by shaping my fundamental understanding of computational thinking. 
 
 And I hate typical data scientists' way of doing things. Most of data scientists I've worked with don't understand either programming (system / engineering / fundamental algorithms) or math. I am trying my best to not to be one of them.
 
