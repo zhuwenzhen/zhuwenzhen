@@ -1,6 +1,6 @@
 ### Hi there 👋 [![Visitor](https://visitor-badge.glitch.me/badge?page_id=zhuwenzhen.zhuwenzhen)](https://github.com/zhuwenzhen/zhuwenzhen)
 
-Thanks for stopping by, this is Wenzhen, a software developer and data scientist based in Bay Area, CA. 🤗
+Thanks for stopping by, this is Wenzhen, a programmer (neural-net-trainer) based in Bay Area, CA. 🤗 I used to do more math than coding.
 
 - 🔭 I’m currently working on efficient benchmark framework and 3D vision.
 - 🔮 Stuff I worked with:
