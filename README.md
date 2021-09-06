@@ -1,6 +1,14 @@
 ### Hi there 👋 [![Visitor](https://visitor-badge.glitch.me/badge?page_id=zhuwenzhen.zhuwenzhen)](https://github.com/zhuwenzhen/zhuwenzhen)
 
-Thanks for stopping by, this is Wenzhen, a 50% programmer + 30% neural-net-trainer + 10% math-problem-solver + 7% musician + 3% dancer based in Bay Area, CA. 🤗 I used to do more math than coding.
+Thanks for stopping by, this is Wenzhen, a 
+- 25% programmer
+- 25% researcher
+- 30% neural-net-trainer 
+- 10% math-problem-solver 
+- 7% musician
+- 3% dancer
+
+based in Bay Area, CA. 🤗 I used to do more math than coding.
 
 <!--And I hate typical data scientists' way of doing things. Most of data scientists I've worked with don't understand either programming (system / engineering / fundamental algorithms) or math. I am trying my best to not to be one of them. -->
 
