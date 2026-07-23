@@ -15,7 +15,7 @@ based in Bay Area, CA. 🤗 I used to do more math than coding.
 - 🔭 I’m currently working on efficient benchmark framework and 3D vision.
 - 🔮 Stuff I worked with:
   -  Domain Adaptation
-  -  Vision / Music Transformer
+  -  Vision Transformer
   -  Image / Video understanding
   -  Computational Geometry / Geometric Algorithms / Differential Geometry
   -  GNN explainability specifically for Heterogeneous Graph 
